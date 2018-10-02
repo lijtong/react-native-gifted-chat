@@ -123,7 +123,7 @@ const styles = {
       ...textStyle,
     },
     link: {
-      color: 'white',
+      color: 'black',
       textDecorationLine: 'underline',
     },
   }),
